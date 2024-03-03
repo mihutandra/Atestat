@@ -1,0 +1,42 @@
+div {
+    margin-right:20px;
+    margin-left:50px;
+  }
+  p {
+    right:15px;
+    left:40px;
+  }
+  
+  h2 {
+      color:#4d0000;
+     }
+  .container{
+  width:200px;
+  height:200px;
+  background-color: #ffb3b3;
+  }
+  
+  nav {
+    margin-bottom:20px;
+    padding-bottom:10px;
+    padding-top:10px;
+    padding-left:20px;
+    padding-right:20px;
+    text-align:left;
+    border-bottom:2px solid #800000
+  }
+.div1 {
+  margin-right:20px;
+  }
+  article {
+    right:15px;
+    left:15px;
+  }
+  .imageContainer {
+    transition:transform 0.25s ease;
+  }
+  
+  embed:hover {
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+  }
